@@ -1,1 +1,1 @@
-# TAREAS
+# Reconocimiento de Patrones
